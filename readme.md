@@ -1,1 +1,1 @@
-This is a test file for git projcect
+This is a test file for git project.
